@@ -1,6 +1,6 @@
 # ECOMMERCE-SALES-DASHBOARD
 # 1.   Project Title
-### ECOMMERCE ANALYTICS:- PERFORMANCE ECOMMERCE SALES DASHBOARD
+### ECOMMERCE ANALYTICS:-🏠 PERFORMANCE ECOMMERCE SALES DASHBOARD
 
 # 2.   Description
 The dashboard is an E-commerce Sales Performance Dashboard that visually tracks business insights such as sales, profit, product demand, customer behavior, regional performance, and payment preferences.
